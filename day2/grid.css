@@ -1,0 +1,56 @@
+.h{
+    font-size: 30px;
+    background-color: cornflowerblue;
+    position: float;
+}
+.parent{
+    
+    margin: auto;
+    position: relative;
+    left: 120px;
+    height: 600px ;
+    color: aquamarine;
+    display: grid;
+    grid-template-columns: 400px 400px 400px ;
+    font-size: 50px;
+    text-align-last: center;
+       
+}
+.box1{
+    background-color: crimson;
+    border: 3px solid black;
+}
+.box2{
+    background-color: crimson;
+    border: 3px solid black;
+}
+.box3{
+    background-color:crimson;
+    border: 3px solid black;
+}
+.box4{
+    background-color: crimson;
+    border: 3px solid black;
+}
+.box5{
+    background-color: lightcoral;
+    text-align: center;
+    border: 3px solid black;
+}
+.box6{
+    background-color: crimson;
+    border: 3px solid black;
+}
+.box7{
+    background-color:crimson;
+    border: 3px solid black;
+}
+.box8{
+    background-color:crimson;
+    border: 3px solid black;
+}
+.box9{
+    background-color:crimson;
+    text-align:center ;
+    border: 3px solid black;
+}

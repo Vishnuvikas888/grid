@@ -1,0 +1,48 @@
+.h{
+    font-size: 30px;
+    background-color: cornflowerblue;
+    position: float;
+}
+.parent{
+    
+    margin: auto;
+    position: relative;
+    left: 120px;
+    height: 600px ;
+    color: aquamarine;
+    display: grid;
+    grid-template-columns: 400px 400px 400px ;
+    font-size: 50px;
+    text-align-last: center;
+       
+}
+.box1{
+    background-color: rgb(0, 255, 170);
+    color: blanchedalmond;
+}
+.box2{
+    background-color: blueviolet;
+}
+.box3{
+    background-color: coral;
+}
+.box4{
+    background-color: rgb(86, 151, 102);
+}
+.box5{
+    background-color: rgb(206, 23, 78);
+    text-align: center;
+}
+.box6{
+    background-color: deeppink;
+}
+.box7{
+    background-color: gold;
+}
+.box8{
+    background-color: orange;
+}
+.box9{
+    background-color: seagreen;
+    text-align:center ;
+}
