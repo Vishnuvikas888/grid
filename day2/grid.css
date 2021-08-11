@@ -35,6 +35,8 @@
 .box5{
     background-color: lightcoral;
     text-align: center;
+    display: grid;
+    place-items:center;
     border: 3px solid black;
 }
 .box6{
@@ -51,6 +53,7 @@
 }
 .box9{
     background-color:crimson;
-    text-align:center ;
+    display: grid;
+    place-items:center;
     border: 3px solid black;
 }
