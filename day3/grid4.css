@@ -1,0 +1,38 @@
+.p{
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 341px 340px;
+    border: 9px solid black;
+    
+}
+.c1{
+    background-color: aquamarine;
+    border: 5px solid black;
+}
+.c2{
+    background-color:cadetblue;
+    border: 5px solid black;
+
+}
+.c3{
+    background-color:crimson;
+    border: 5px solid black;
+
+}
+.c4{
+    background-color:darkslateblue;
+    border: 5px solid black;
+
+}
+.c5{
+    background-color:firebrick;
+    border: 5px solid black;
+
+}
+.c6{
+    background-color:indianred;
+    border: 5px solid black;
+
+}

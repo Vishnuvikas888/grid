@@ -1,0 +1,79 @@
+.p{
+    margin: 0vh;
+    padding: 0vh;
+    display: grid;
+    border: 9px solid black;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 225px 225px 225px;
+}
+.c1{
+    border: 5px solid black;
+    background-color: lightsalmon;
+}
+.c2{
+    border: 5px solid black;
+    background-color:lightslategrey;
+}
+.c3{  border: 5px solid black;
+    background-color:mediumpurple;
+}
+.c4{
+    border: 5px solid black;
+    background-color:mediumseagreen;
+}
+.c5{  border: 5px solid black;
+    background-color:mediumturquoise;
+}
+.c6{
+    border: 5px solid black;
+    background-color:olive;
+}
+.c7{
+    border: 5px solid black;
+    background-color:olivedrab;
+}
+.c8{
+    border: 5px solid black;
+    border-right: 0px;
+    background-color:orange
+}
+.c9{
+    border: 5px solid black;
+    border-right: 0px;
+    border-left: 0px;
+    background-color:orange;
+}
+.c10{
+    border: 5px solid black;
+    border-left: 0px;
+    background-color:orange;
+}
+.c11{
+    border: 5px solid black;
+    border-right: 0px;
+    background-color:royalblue;
+}
+.c12{
+    background-color:royalblue;
+    border-top:5px solid black ;
+    border-bottom: 5px solid black;
+}
+.c13{
+    background-color: royalblue;
+    border-top:5px solid black ;
+    border-bottom: 5px solid black;
+}
+
+.c14{
+    background-color: royalblue;
+    border-top:5px solid black ;
+    border-bottom: 5px solid black;
+}
+
+.c15{
+    background-color: royalblue;
+    border-top:5px solid black ;
+    border-bottom: 5px solid black;
+}
+
+

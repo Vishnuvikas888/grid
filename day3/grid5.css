@@ -1,0 +1,35 @@
+.p{
+    margin: 0vh;
+    padding: 0vh;
+    border: 9px solid black;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-auto-rows: 341px 340px;
+}
+.c1{
+    border: 5px solid black;
+    border-right: 0px;
+    background-color: indianred;
+}
+.c2{
+    border: 5px solid black;
+    border-left: 0px;
+    border-right: 9px solid black;
+    background-color: indianred;
+}
+.c3{
+
+    background-color: lawngreen;
+}
+.c4{
+    border: 5px solid black;
+    background-color: lightblue;
+}
+.c5{
+    border: 5px solid black;
+    border-right: 9px solid black;
+    background-color: mediumpurple;
+}
+.c6{
+    background-color: lawngreen;
+}
